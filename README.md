@@ -6,9 +6,11 @@
 
 2. sign in 81218wbh account to fork the testGithub123
 
-3. do some changes and commit 
+3. create testgithub123 branch
 
-4. send a pull request
+3. do some changes and commit [81218wbh]
+
+4. send a pull request [81218wbh]
 
 5. make some comments
 
