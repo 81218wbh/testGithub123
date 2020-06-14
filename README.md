@@ -10,9 +10,9 @@
 
 3. do some changes and commit [81218wbh]
 
-4. send a pull request [81218wbh]
+4. send a pull request [81218wbh] 
 
-5. make some comments
+5. make some comments && I have make the changes[81218wbh]
 
 6. do a merge
 
