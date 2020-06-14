@@ -16,4 +16,12 @@
 
 6. do a merge
 
+## advanced pull request
 
+1. crate testAdvanced branch
+2. do some changes  && commit
+3. push commit to fork repos
+4. create a pull request
+5. do some comments
+6. switch to the original repos && do some changes && make a conflict
+ 
