@@ -8,11 +8,11 @@
 
 3. create testgithub123 branch
 
-3. do some changes and commit [81218wbh]
+3. do some changes and commit [81244wbh]
 
-4. send a pull request [81218wbh] 
+4. send a pull request [81244wbh] 
 
-5. make some comments && I have make the changes[81218wbh]
+5. make some comments && I have make the changes[81244wbh]
 
 6. do a merge
 
